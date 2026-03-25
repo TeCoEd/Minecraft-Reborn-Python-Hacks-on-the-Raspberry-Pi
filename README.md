@@ -1,7 +1,5 @@
 # 🐍 Minecraft Python Hacks (Raspberry Pi / MCPI)
 
-![Minecraft Reborn](https://via.placeholder.com/1000x400?text=Minecraft+Reborn)
-
 ![Minecraft Reborn](./images/example.png)
 
 Take your Raspberry Pi Minecraft world to the next level using Python! 💎
