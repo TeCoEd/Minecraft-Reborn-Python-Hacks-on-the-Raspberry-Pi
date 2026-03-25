@@ -2,6 +2,8 @@
 
 ![Minecraft Reborn](https://via.placeholder.com/1000x400?text=Minecraft+Reborn)
 
+![Minecraft Reborn](./images/example.png)
+
 Take your Raspberry Pi Minecraft world to the next level using Python! 💎
 This project demonstrates how to use the `mcpi` library to instantly build structures, create fun effects, and add interactive elements to your world.
 
