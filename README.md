@@ -1,4 +1,4 @@
-# 🐍 Minecraft Python Hacks (Raspberry Pi / MCPI)
+# 🐍 Minecraft Python Hacks (Raspberry Pi / Minecraft Reborn / MCPI)
 
 ![Minecraft Reborn](./images/example.png)
 
