@@ -37,7 +37,7 @@ With just a few lines of code, you can:
 ## 🛠️ Requirements
 
 * Raspberry Pi (or compatible setup)
-* Minecraft Pi Edition (MCPI)
+* Minecraft Reborn install video here: https://www.youtube.com/watch?v=SHi3jPus3LM
 * Python 3
 * `mcpi` library
 
@@ -45,22 +45,7 @@ With just a few lines of code, you can:
 
 ## 📦 Setup
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/TeCoEd/Minecraft-RaspberryPi-Python-Hacks.git
-cd Minecraft-RaspberryPi-Python-Hacks
-```
-
-2. Make sure Minecraft Pi is running
-
-3. Run any script:
-
-```bash
-python3 script_name.py
-```
-
----
+Full install guide here: https://www.youtube.com/watch?v=lP7CWBUp-Zw
 
 ## 🎮 Scripts Included
 
